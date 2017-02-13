@@ -1,0 +1,37 @@
+.color-1 { background-color: #b9162d; }
+.color-2 { background-color: #064384; }
+.background-1 { background-color: rgba(58, 165, 102, 0.8); }
+.background-2 { background-color: rgba(6, 67, 132, 0.8); }
+.text-1 { color: #b9162d; }
+.text-2 { color: #064384; }
+
+/* Images */ 
+
+.img-votacao { background-image: url("_images/votacao-eleicao-ufpa.jpg"); }
+.img-debate { background-image: url("_images/debate-reitoria-ufpa.jpg"); }
+
+.img-edson-ortiz { background-image: url("_images/edson-ortiz.jpg"); }
+.img-vera-jacob { background-image: url("_images/vera-jacob.jpg"); }
+.img-joao-weyl { background-image: url("_images/joao-weyl.jpg"); }
+.img-emmanuel-tourinho { background-image: url("_images/emmanuel-tourinho.jpg"); }
+.img-erick-pedreira { background-image: url("_images/erick-pedreira.jpg"); }
+
+.img-estudantes { background-image: url("_images/assistencia-estudantil.jpg"); }
+.img-extensao { background-image: url("_images/extensao.jpg"); }
+.img-rh { background-image: url("_images/recursos-humanos.jpg"); }
+.img-infra { background-image: url("_images/infraestrutura.jpg"); }
+.img-metas { background-image: url("_images/metas.jpg"); }
+
+
+/* Tile */
+
+.tile a {
+  background-color: rgba(6, 67, 132, 0.7);
+}
+.tile a:hover, .tile a:focus {
+  background-color: rgba(185, 22, 45, 0.7); 
+}
+
+.big-tile { height: 320px; width: 280px; }
+.large-tile { height: 280px; width: 320px; }
+.quad-tile { height: 280px; width: 220px; }
